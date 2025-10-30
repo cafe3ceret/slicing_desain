@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* === Base Tweaks === */
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply bg-gray-50 text-gray-800 font-poppins antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-gray-900 font-semibold;
+  }
+}
+
+/* === Reusable Utilities === */
+@layer components {
+  .container-px {
+    @apply max-w-6xl mx-auto px-6;
+  }
+
+  .section {
+    @apply container-px py-12 md:py-20;
+  }
+
+  .card {
+    @apply bg-white shadow-md rounded-2xl p-6 md:p-8 transition hover:shadow-lg;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-blue-600 to-purple-500 text-white px-5 py-3 font-semibold shadow-md hover:shadow-lg transition;
+  }
+}
