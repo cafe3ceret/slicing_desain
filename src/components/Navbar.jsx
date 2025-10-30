@@ -15,7 +15,7 @@ function Navbar() {
             className="w-8 h-8 rounded-full object-cover ring-2 ring-white shadow"
           />
           <span className="text-[15px] md:text-base font-semibold text-ink tracking-tight">
-            Arie Pratama
+            Aditya Arief Darmawan
           </span>
         </a>
 

@@ -6,7 +6,7 @@ function Footer() {
       <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
         {/* Left: Copyright */}
         <p className="text-sm text-gray-600 text-center sm:text-left">
-          © {new Date().getFullYear()} Arie Pratama. All rights reserved.
+          © {new Date().getFullYear()} Aditya Arief Darmawan. All rights reserved.
         </p>
 
         {/* Right: Social Links */}

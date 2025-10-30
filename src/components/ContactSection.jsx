@@ -26,19 +26,19 @@ function ContactSection() {
                 <span className="w-10 h-10 flex items-center justify-center rounded-full bg-blue-600 text-white shadow-md">
                   <i className="fa-solid fa-envelope"></i>
                 </span>
-                <span className="font-medium">arie@email.com</span>
+                <span className="font-medium">cafeceret3@gmail.com</span>
               </li>
               <li className="flex items-center gap-4">
                 <span className="w-10 h-10 flex items-center justify-center rounded-full bg-green-600 text-white shadow-md">
                   <i className="fa-brands fa-whatsapp"></i>
                 </span>
-                <span className="font-medium">0812-3456-7890</span>
+                <span className="font-medium">0813-2630-6712</span>
               </li>
               <li className="flex items-center gap-4">
                 <span className="w-10 h-10 flex items-center justify-center rounded-full bg-red-500 text-white shadow-md">
                   <i className="fa-solid fa-location-dot"></i>
                 </span>
-                <span className="font-medium">Jakarta, Indonesia</span>
+                <span className="font-medium">Surakarta, Indonesia</span>
               </li>
             </ul>
           </div>

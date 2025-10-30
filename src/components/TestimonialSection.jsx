@@ -9,7 +9,7 @@ const testimonials = [
     id: 1,
     name: "Rizky Putra",
     role: "Owner – CoffeeSpace",
-    text: "Arie sangat profesional dan komunikatif. Desain website yang dibuat sangat modern dan meningkatkan citra brand bisnis saya.",
+    text: "Adit sangat profesional dan komunikatif. Desain website yang dibuat sangat modern dan meningkatkan citra brand bisnis saya.",
     image: profile1,
   },
   {
@@ -23,7 +23,7 @@ const testimonials = [
     id: 3,
     name: "Andi Saputra",
     role: "CEO – DigitalHive",
-    text: "Bekerja dengan Arie sangat menyenangkan! Hasil cepat, responsif, dan selalu memberikan ide-ide kreatif.",
+    text: "Bekerja dengan Adit sangat menyenangkan! Hasil cepat, responsif, dan selalu memberikan ide-ide kreatif.",
     image: profile3,
   },
 ];

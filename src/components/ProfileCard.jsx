@@ -16,7 +16,7 @@ function ProfileCard() {
 
       {/* Name */}
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800">
-        Arie Pratama
+        Aditya Arief Darmawan
       </h2>
 
       {/* Role */}
