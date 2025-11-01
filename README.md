@@ -22,7 +22,7 @@ Tujuan utamanya adalah menampilkan profil pribadi sebagai **UI/UX Designer & Web
 
 ## 📘 Deskripsi Proyek
 Proyek ini merupakan hasil slicing desain dari Figma ke React.js menggunakan Tailwind CSS.  
-Tu
+
 
 
 
